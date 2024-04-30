@@ -1,0 +1,55 @@
+snt_id	Passage	Identified Difficult Terms	Explanations
+G14.2_2884788726_2	However, in information-centric networking (ICN) the end-to-end encryption makes the content caching ineffective since encrypted content stored in a cache is useless for any consumer except those who know the encryption key.	"1. End-to-end encryption
+2. Content caching
+3. Encryption key
+4. Ineffective
+5. Consumer"	"1. End-to-end encryption: A security measure that ensures only the sender and intended recipient can access the content of a communication, by encrypting it at the source and decrypting it only at the destination.
+2. Content caching: A technique used to store frequently accessed content in a network closer to the user, reducing the time it takes to load and improving performance.
+3. Encryption key: A unique sequence of bits used to encrypt and decrypt data, ensuring that only authorized parties can access the content.
+4. Ineffective: (adjective) Lacking the desired or intended effect, often due to inadequate planning, resources, or execution.
+5. Consumer: (noun) An individual or organization that purchases or uses goods or services, often for personal or business purposes."
+G17.2_2893955699_1	Concatenated Greenberger‚ÄìHorne‚ÄìZeilinger (C-GHZ) state is a kind of logic qubit which is robust in noisy environment.	"1. Concatenated
+2. Greenberger
+3. Horne
+4. Zeilinger
+5. logic qubit"	"1. Concatenated: A concatenated sequence of quantum states is a sequence of states that are combined by taking their tensor product.
+2. Greenberger: Greenberger is a quantum state that is used as a resource for quantum teleportation, a process that allows for the transfer of a quantum state from one location to another without physical transport of the state.
+3. Horne: Horne is a quantum state that is used in quantum teleportation, similar to Greenberger.
+4. Zeilinger: Zeilinger is a quantum state that is used in quantum teleportation, similar to Greenberger and Horne.
+5. Logic qubit: A logic qubit is a type of qubit that can exist in a superposition of both 0 and 1 at the same time, allowing for the representation of both classical logical values (0 or 1) in a quantum system."
+G17.4_2974627365_1	Quantum circuits for arithmetic functions over Galois fields such as squaring are required to implement quantum cryptanalysis algorithms.	"1. Quantum circuits
+2. Galois fields
+3. Squaring
+4. Cryptanalysis
+5. Algorithms"	"1. Quantum circuits: A set of quantum gates that are connected in a specific sequence to perform a quantum computation.
+2. Galois fields: A mathematical structure used in cryptography to construct cryptographic primitives, such as finite fields and their algebraic operations.
+3. Squaring: A mathematical operation that takes an element of a finite field and returns the element itself raised to the power of 2.
+4. Cryptanalysis: The study of methods for breaking or weakening cryptographic algorithms, including attacks on the security of cryptographic systems.
+5. Algorithms: A set of instructions used to solve a particular problem or perform a specific task, often in a computer system or program."
+T19.2_2172121104_3	The XECGA is then used to build the probabilistic model and to sample a new population based on the probabilistic model.	"1. XECGA
+                    2. probabilistic model
+                    3. sample
+                    4. population
+                    5. probabilistic"	"1. XECGA: A XECGA (eXtreme Gradient Boosting Algorithm) is a machine learning algorithm that combines multiple weak models to create a strong predictive model.
+2. Probabilistic model: A probabilistic model is a statistical model that assigns a probability distribution to each possible outcome or value of a variable, allowing for the estimation of uncertainty and risk.
+3. Sample: A sample is a subset of data selected from a larger population, used to represent the population or to make inferences about it.
+4. Population: A population is the entire set of individuals or cases that a study or analysis is based on, from which a sample is typically selected.
+5. Probabilistic: Probabilistic refers to the use of probability theory and statistical methods to analyze and model uncertain phenomena, such as the probability of an event occurring or the probability of a particular value of a variable."
+G07.2_1917985537_2	Treating search engines as editorial products with intrinsic biases can help understand the structure of information flows in new media.	"1. Intrinsic biases
+2. Information flows
+3. New media
+4. Editorial products
+5. Structures"	"1. Intrinsic biases: Unconscious or unintentional biases that are inherent in the design of a system, algorithm, or process, which can influence the results or outcomes.
+2. Information flows: The movement of data, information, or knowledge between different entities, systems, or individuals, often through various channels or pathways.
+3. New media: Digital or online platforms, tools, or technologies that enable new forms of communication, interaction, or expression, such as social media, blogs, or podcasts.
+4. Editorial products: Content created or curated by editors, such as articles, videos, or podcasts, that are intended to inform, educate, or entertain a specific audience.
+5. Structures: The underlying organizational or architectural frameworks that shape the way information is collected, stored, or disseminated, such as databases, data warehouses, or content management systems."
+T15.1_2952002252_3	To achieve this, some organisations ‚Äúpentest‚Äù their employees, testing their resilience and ability to detect and repel human-targeted attacks.	"1. Resilience
+2. Pentest
+3. Human-targeted attacks
+4. Repel
+5. Detect"	"1. Resilience: The ability of an organization or system to withstand or recover quickly from disruptions, attacks, or failures.
+2. Pentest: A simulated cyber attack against a computer system, network, or web application to test its defenses and identify vulnerabilities.
+3. Human-targeted attacks: Cyber attacks that target individuals, such as phishing, social engineering, or spear phishing, to gain unauthorized access to their personal information or systems.
+4. Repel: To prevent or defend against a cyber attack or intrusion, often through the use of security measures such as firewalls, intrusion detection systems, or antivirus software.
+5. Detect: To identify or discover a cyber attack or intrusion, often through the use of security measures such as intrusion detection systems, log analysis, or security information and event management (SIEM) systems."
