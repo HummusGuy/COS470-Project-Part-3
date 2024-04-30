@@ -12,7 +12,7 @@ To reproduce the Proposed system evaluation results:
 - In the directory, keep the Llama2_results.tsv file, which is from the last part (or produce it yourself), this is done to do significance testing between the results of the two. 
 
 - Finally, after the "Llama3_results.tsv" file is gotten by either using the one already provided in the repo or producing it through Colab, select your favorite editor and insert this file and "ground_truths.tsv", "evaluate_res.py", and "Llama2_results.tsv". 
-- This is a standard Python script that parses the results from running Llama 2 in both part 2 and part 3 and makes a TSV of the evaluation results for the proposed system and the baseline system and then compares the two for significance testing. 
+- This is a standard Python script that parses the results from running Llama 2 in part 2 and Llama 3 in part 3 and makes a TSV of the evaluation results for the proposed system and the baseline system and then compares the two for significance testing. 
 
 - After those two steps, you will see the results from the baseline and the proposed system and the significance testing results will be displayed in the console.
 
